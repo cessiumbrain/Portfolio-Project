@@ -1,0 +1,29 @@
+body {
+    background-image: url("/img/cover.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Barlow';
+}
+
+footer {
+    background: rgb(94,94,94);
+background: linear-gradient(0deg, rgba(94,94,94,1) 0%, rgba(143,143,143,0.47328125) 48%, rgba(0,212,255,0) 100%);
+}
+
+form {
+    background-color: rgba(143,143,143,0.6);
+}
+
+
+.form-group {
+    padding: 20px;
+}
+
+.carousel-inner {
+    width: 100%;
+    height: 75vh;
+}
+
+.bottom-margin {
+    margin-bottom: 25vh;
+}
